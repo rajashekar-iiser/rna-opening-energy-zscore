@@ -1,0 +1,7 @@
+viennarna
+biopython
+numpy
+pandas
+tqdm
+matplotlib
+seaborn
